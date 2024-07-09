@@ -1,0 +1,10 @@
+.options_list {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 12px;
+}
+
+.options_list_button {
+  padding: 5px;
+  border-radius: 10%;
+}
